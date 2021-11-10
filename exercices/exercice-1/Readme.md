@@ -1,3 +1,3 @@
 # Ejercicio Nº 1
 
-![Vista Previa](./assets/preview.jpg)
+![Vista Previa](./practica/preview.jpg)
